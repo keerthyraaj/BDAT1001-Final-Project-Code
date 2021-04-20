@@ -1,0 +1,7 @@
+C:\Users\keert\source\repos\video - 4  (ep.3)\video - 4  (ep.3)\obj\Debug\netcoreapp3.1\video - 4  (ep.3).csprojAssemblyReference.cache
+C:\Users\keert\source\repos\video - 4  (ep.3)\video - 4  (ep.3)\obj\Debug\netcoreapp3.1\video - 4  (ep.3).AssemblyInfoInputs.cache
+C:\Users\keert\source\repos\video - 4  (ep.3)\video - 4  (ep.3)\obj\Debug\netcoreapp3.1\video - 4  (ep.3).AssemblyInfo.cs
+C:\Users\keert\source\repos\video - 4  (ep.3)\video - 4  (ep.3)\obj\Debug\netcoreapp3.1\video - 4  (ep.3).csproj.CoreCompileInputs.cache
+C:\Users\keert\source\repos\video - 4  (ep.3)\video - 4  (ep.3)\obj\Debug\netcoreapp3.1\video - 4  (ep.3).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\keert\source\repos\video - 4  (ep.3)\video - 4  (ep.3)\obj\Debug\netcoreapp3.1\video - 4  (ep.3).RazorAssemblyInfo.cache
+C:\Users\keert\source\repos\video - 4  (ep.3)\video - 4  (ep.3)\obj\Debug\netcoreapp3.1\video - 4  (ep.3).RazorAssemblyInfo.cs
